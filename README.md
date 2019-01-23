@@ -4,7 +4,7 @@ collect corpus for future
 
 ## English
 
-* [Ner entities](https://catalog.ldc.upenn.edu/LDC2013T19)
+* [Ontonotes ner entities](https://catalog.ldc.upenn.edu/LDC2013T19)
 
 *   [Apache Software Foundation Public Mail Archives](http://aws.amazon.com/de/datasets/apache-software-foundation-public-mail-archives/): all publicly available Apache Software Foundation mail archives as of July 11, 2011 (200 GB)
 
