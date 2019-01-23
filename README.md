@@ -1,6 +1,9 @@
 # corpus
 collect corpus for future
 
+## 中文
+
+* [腾讯ai实验室的embedding](https://ai.tencent.com/ailab/nlp/embedding.html)
 
 ## English
 
